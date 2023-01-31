@@ -16,4 +16,4 @@ https://user-images.githubusercontent.com/110650288/215740511-65a3b57c-304d-4cbe
 
 #### 改善点
 * google colaboratory上で実行中でなくてもアプリを使用できるようにしたい。
-* 大きいデータを使用したモデルをでWebページを作成したい。
+* 大きいデータを使用したモデルでWebページを作成したい。
