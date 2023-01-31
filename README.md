@@ -15,5 +15,5 @@ https://user-images.githubusercontent.com/110650288/215740511-65a3b57c-304d-4cbe
 * データセットの容量が大きいのでgoogle colaboratory上だと一部のデータしか使用できなかった。
 
 #### 改善点
-* google colaboratoryで実行中でなくてもアプリを使用できるようにしたい。
+* google colaboratory上で実行中でなくてもアプリを使用できるようにしたい。
 * 大きいデータを使用したモデルをでWebページを作りたい。
